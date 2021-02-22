@@ -40,7 +40,7 @@ function scrollFunction() {
     mybutton.style.display = "none";
   }
 }
-var msg  = document.title ="VexX Commentary Youtuber";
+var msg  = document.title ="Lucif3rz Commentary Youtuber";
 var speed = 200;
 var endChar = " ";
 var pos = 0;
