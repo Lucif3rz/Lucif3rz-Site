@@ -1,0 +1,46 @@
+@media only screen and (min-width: 768px) {
+	.cta {
+		font-size: 2.5rem;
+		padding: 20px 60px;
+    }
+	h1.section-title {
+		font-size: 40px;
+	}
+}
+@media only screen and (max-width: 768px) {
+	.logo {
+		display: none;
+	}
+	}
+@media only screen and (min-width: 1200px) {
+	#header .hamburger {
+		display: none;
+	}
+	#header .nav-list ul {
+		position: initial;
+		display: block;
+		height: auto;
+		width: fit-content;
+		background-color: transparent;
+	}
+	#header .nav-list ul li {
+		display: inline-block;
+	}
+	#header .nav-list ul li a {
+		font-size: 1.8rem;
+	}
+	#header .nav-list ul a:after {
+		display: none;
+	}
+	.mobilelogo {
+		display: none;
+	}
+}
+@media only screen and (max-width: 1200px) {
+	.img {
+		display: none;
+	}
+	#hero h1 {
+		font-size: 40px;
+	}
+}
